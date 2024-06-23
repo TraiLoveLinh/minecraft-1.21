@@ -1,0 +1,2 @@
+killall ngrok
+killall java
